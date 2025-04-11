@@ -6,6 +6,7 @@ layout: minimal
 # Preguntas Frecuentes  
 ## SkillLab App, nueva aplicación a escala piloto como parte de una colaboración entre el Banco Mundial y la Subsecretaría de Empleo y Formación Profesional.  
 
+---
 
 [1. ¿Qué es la nueva aplicación de SkillLab?](#1-qué-es-la-nueva-aplicación-de-skilllab)  
 [2. ¿Quiénes pueden utilizar la aplicación?](#2-quiénes-pueden-utilizar-la-aplicación)  
