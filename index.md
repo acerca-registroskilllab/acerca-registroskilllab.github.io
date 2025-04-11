@@ -3,8 +3,8 @@ title: Preguntas Frecuentes - SkillLab App
 layout: minimal
 ---
 
-**Preguntas Frecuentes  
-***SkillLab App, nueva aplicación a escala piloto como parte de una colaboración entre el Banco Mundial y la Subsecretaría de Empleo y Formación Profesional.
+** Preguntas Frecuentes  
+*** SkillLab App, nueva aplicación a escala piloto como parte de una colaboración entre el Banco Mundial y la Subsecretaría de Empleo y Formación Profesional.
 
 [1. ¿Qué es la nueva aplicación de SkillLab?](#1-qué-es-la-nueva-aplicación-de-skilllab)  
 [2. ¿Quiénes pueden utilizar la aplicación?](#2-quiénes-pueden-utilizar-la-aplicación)  
@@ -42,13 +42,12 @@ Un grupo de participantes de los programas Fomentar y Volver al Trabajo son los 
 				
 ## 3. ¿Esta aplicación es para todos los participantes de los programas Fomentar y Volver al Trabajo?				
 No, esta instancia corresponde a una fase piloto, lo que significa que no todos los participantes de los programas Fomentar y Volver al Trabajo recibirán una invitación para usar la aplicación. Solo un grupo selecto de usuarios será invitado a participar en esta prueba inicial. En el marco del proceso de mejoras que se está desarrollando en el portal, el objetivo es evaluar la efectividad de la herramienta antes de expandirla a un mayor número de participantes.				
-				
 ## 4. ¿Durante cuánto tiempo los participantes que reciban la invitación podrán utilizar la aplicación?				
 Los participantes que reciban la invitación y creen su perfil utilizando SkillLab app tendrán el beneficio de acceso de por vida. Esto significa que, los participantes podrán seguir ingresando más experiencias, añadir habilidades y explorar sus recomendaciones.				
 				
 ## 5. ¿Cómo puedo acceder a la aplicación?				
 Los usuarios pueden acceder a la aplicación ingresando a la dirección web que figura en el correo electrónico con la invitación, iniciando la sesión en [https://skilllab.app/mobile/guest/authentication](https://skilllab.app/mobile/guest/authentication) desde cualquier dispositivo móvil o computadora con conexión a internet.				
-Se recomienda ingresar con el correo electrónico proporcionado al inscribirse en Portal Empleo y generar una contraseña para completar el proceso de registro.				
+Se recomienda ingresar con el correo electrónico proporcionado al inscribirse en Portal Empleo y generar una contraseña para completar el proceso de registro.	
 				
 ## 6. ¿Por qué no encuentro SkillLab en Play Store o App Store?				
 SkillLab app no es una App tradicional. Esta app NO se descarga del Play Store o App Store, ya que es una plataforma web a la que puedes acceder desde cualquier navegador sin necesidad de descargar nada. Simplemente ingresas a través de la página web [https://skilllab.app/mobile/guest/authentication](https://skilllab.app/mobile/guest/authentication) y utilizas todas sus funciones.  				
@@ -60,7 +59,7 @@ Los beneficios de SkillLab App como aplicación web progresiva (PWA) son:
 				
 ## 7. ¿Cómo puedo instalar SkillLab App en mi dispositivo?				
 SkillLab App es una Aplicación web progresiva (PWA), lo que significa que puedes instalarla directamente desde tu navegador web. Para hacerlo, abre la página de SkillLab App, haz clic en 'Añadir a la pantalla de inicio' y sigue las instrucciones.  
-![](images/q7.png)			
+![screenshot-app](images/q7.png)			
 				
 ## 8. ¿Es necesario pagar por el uso de la aplicación?				
 No, el acceso a la aplicación es totalmente gratuito para los participantes de los programas Fomentar y Volver al Trabajo.				
@@ -79,7 +78,7 @@ Puedes descargar tantos CV como desees, ya sea en formato general, resaltando tu
 				
 ## 11. ¿Puedo agregar mi experiencia si trabajo de manera independiente?				
 Sí, queremos motivarte a registrar todas tus experiencias, incluso si trabajas por cuenta propia. Al agregar tu experiencia laboral, en la primera pantalla de información, puedes seleccionar que tu trabajo fue independiente y continuar el proceso sin ningún problema.  
-![](images/q11.png)	
+![screenshot-app](images/q11.png)	
 				
 ## 12. ¿Qué tipos de experiencias laborales debo registrar?				
 Cualquier experiencia que se te ocurra. Toda la información que ingreses en SkillLab App se utiliza exclusivamente para brindarte recomendaciones de habilidades, ocupaciones y cursos. No se compartirá con ninguna otra organización. Por ello, te motivamos a integrar todas tus experiencias.				
