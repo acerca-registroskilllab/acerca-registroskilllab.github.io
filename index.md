@@ -59,7 +59,7 @@ Los beneficios de SkillLab App como aplicación web progresiva (PWA) son:
 				
 ## 7. ¿Cómo puedo instalar SkillLab App en mi dispositivo?				
 SkillLab App es una Aplicación web progresiva (PWA), lo que significa que puedes instalarla directamente desde tu navegador web. Para hacerlo, abre la página de SkillLab App, haz clic en 'Añadir a la pantalla de inicio' y sigue las instrucciones.  
-![screenshot-app](images/q7.png)			
+![screenshot-app](images/q7image.png)			
 				
 ## 8. ¿Es necesario pagar por el uso de la aplicación?				
 No, el acceso a la aplicación es totalmente gratuito para los participantes de los programas Fomentar y Volver al Trabajo.				
@@ -78,7 +78,7 @@ Puedes descargar tantos CV como desees, ya sea en formato general, resaltando tu
 				
 ## 11. ¿Puedo agregar mi experiencia si trabajo de manera independiente?				
 Sí, queremos motivarte a registrar todas tus experiencias, incluso si trabajas por cuenta propia. Al agregar tu experiencia laboral, en la primera pantalla de información, puedes seleccionar que tu trabajo fue independiente y continuar el proceso sin ningún problema.  
-![screenshot-app](images/q11.png)	
+![screenshot-app](images/q11image.png)	
 				
 ## 12. ¿Qué tipos de experiencias laborales debo registrar?				
 Cualquier experiencia que se te ocurra. Toda la información que ingreses en SkillLab App se utiliza exclusivamente para brindarte recomendaciones de habilidades, ocupaciones y cursos. No se compartirá con ninguna otra organización. Por ello, te motivamos a integrar todas tus experiencias.				
