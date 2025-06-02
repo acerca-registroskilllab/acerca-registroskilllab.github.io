@@ -8,6 +8,11 @@ layout: minimal
 
 ---
 
+<video width="640" height="360" controls>
+  <source src="videos/Video-1-registro-y-plan-de-carrera en SkillLab app.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [1. ¿Qué es la nueva aplicación de SkillLab?](#1-qué-es-la-nueva-aplicación-de-skilllab)  
 [2. ¿Quiénes pueden utilizar la aplicación?](#2-quiénes-pueden-utilizar-la-aplicación)  
 [3. ¿Esta aplicación es para todos los participantes de los programas Fomentar y Volver al Trabajo?](#3-esta-aplicación-es-para-todos-los-participantes-de-los-programas-fomentar-y-volver-al-trabajo)  
