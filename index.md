@@ -8,10 +8,25 @@ layout: minimal
 
 ---
 
-<video width="640" height="360" controls>
-  <source src="videos/Video-1-registro-y-plan-de-carrera en SkillLab app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-around;">
+
+  <figure style="width: 48%; text-align: center;">
+    <video controls style="width: 100%;">
+      <source src="videos/Video-1-registro-y-plan-de-carrera en SkillLab app.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Registro y plan de carrera en SkillLab app</figcaption>
+  </figure>
+
+  <figure style="width: 48%; text-align: center;">
+    <video controls style="width: 100%;">
+      <source src="videos/Video 2 – Navegando por SkillLab app.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Navegando por SkillLab app</figcaption>
+  </figure>
+
+</div>
 
 [1. ¿Qué es la nueva aplicación de SkillLab?](#1-qué-es-la-nueva-aplicación-de-skilllab)  
 [2. ¿Quiénes pueden utilizar la aplicación?](#2-quiénes-pueden-utilizar-la-aplicación)  
